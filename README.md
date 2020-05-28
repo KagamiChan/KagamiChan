@@ -1,1 +1,1 @@
-# .github
+Hi, this is かがみ, I'm an software engineer that mainly focuses on frontend development. I like watch anime and play games including Kantai Collection(kancolle), PriConne R and IM@S MLTD. I also spare some time in the development of poi, a kancolle browser
