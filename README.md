@@ -1,5 +1,5 @@
-Hi, I’m かがみ, a web front-end developer. I have been writing JavaScript/TypeScript code for recent years, and sometimes practising C# as well.
+Hello! My name is かがみ, and I specialize in front-end web development. Over the past few years, my main focus has been on crafting code in JavaScript/TypeScript, with occasional ventures into C#.
 
-I enjoy indoor activities such as watching anime, playing games and reading novels. I also spend some time on the development of [poi](https://github.com/poooi/poi), a browser for Web game _Kantai Collection_.
+My personal interests lean towards indoor hobbies, including anime, video gaming, and novel reading. Additionally, I contribute to the development of [poi](https://github.com/poooi/poi), which is a web game browser designed for _Kantai Collection_.
 
-I can speak Chinese, English and French, and I have a basic knowledge of Japanese.
+I am fluent in Chinese and English, have proficiency in French, and possess a foundational understanding of Japanese.
